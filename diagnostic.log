@@ -1,0 +1,17 @@
+2020/06/18 2:17:39:658 PM  UUID (installation): 31F82CF5-1AE3-4DA9-A659-A773172B5A7E
+2020/06/18 2:17:39:683 PM  element: file:///private/var/mobile/Containers/Data/Application/031CBD07-A169-440E-8BC1-6598D775E3F7/Library/Application%20Support/storage.sqlite-shm
+2020/06/18 2:17:39:683 PM  try to remove db file: file:///private/var/mobile/Containers/Data/Application/031CBD07-A169-440E-8BC1-6598D775E3F7/Library/Application%20Support/storage.sqlite-shm
+2020/06/18 2:17:39:684 PM  element: file:///private/var/mobile/Containers/Data/Application/031CBD07-A169-440E-8BC1-6598D775E3F7/Library/Application%20Support/storage.sqlite-wal
+2020/06/18 2:17:39:684 PM  try to remove db file: file:///private/var/mobile/Containers/Data/Application/031CBD07-A169-440E-8BC1-6598D775E3F7/Library/Application%20Support/storage.sqlite-wal
+2020/06/18 2:17:39:684 PM  element: file:///private/var/mobile/Containers/Data/Application/031CBD07-A169-440E-8BC1-6598D775E3F7/Library/Application%20Support/storage.sqlite
+2020/06/18 2:17:39:684 PM  try to remove db file: file:///private/var/mobile/Containers/Data/Application/031CBD07-A169-440E-8BC1-6598D775E3F7/Library/Application%20Support/storage.sqlite
+2020/06/18 2:17:39:698 PM  Did load persistent store: <NSPersistentStoreDescription: 0x2839e1bc0> (type: SQLite, url: file:///var/mobile/Containers/Data/Application/031CBD07-A169-440E-8BC1-6598D775E3F7/Library/Application%20Support/storage.sqlite)
+2020/06/18 2:17:39:723 PM  Save user info: 'nil'
+2020/06/18 2:17:39:723 PM  Save profile: 'nil'
+2020/06/18 2:17:39:724 PM  Save physical documents: 'nil'
+2020/06/18 2:17:39:724 PM  ℹ️ >INFO> : application 'didFinishLaunchingWithOptions'
+	name: SavvyInvest St
+	id: com.eventsoft.savvyinvest.staging
+	v.0.1.0(0.1.0.272)
+	OS:iOS13.5.1
+	Model:iPhone
